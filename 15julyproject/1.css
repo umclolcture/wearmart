@@ -1,0 +1,37 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+#bod{
+    background-image: url(human-head-model-wearing-vr-glasses-and-shopping-online-hat-shoe-sunglasses-and-clutch-bag.jpg);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header{
+    height: 100vh;
+    background-image: url(familyshopi.jpg);
+     background-position: center;
+   background-repeat: no-repeat;
+   background-size:cover;
+   /*opacity: 50%;*/
+     
+}   
+
+#catil{
+    background-image: url(human-head-model-wearing-vr-glasses-and-shopping-online-hat-shoe-sunglasses-and-clutch-bag.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#catil2{
+    margin-top: 15px;
+    height: 100%; 
+    
+}
+#catil3{
+    margin-top: 15px;
+    height: 100%; 
+}

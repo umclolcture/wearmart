@@ -1,0 +1,43 @@
+.wholeta{
+    background-image: url(wmlogo-01.png); background-repeat: no-repeat;
+}
+
+.body{
+    background-image: url(human-head-model-wearing-vr-glasses-and-shopping-online-hat-shoe-sunglasses-and-clutch-bag.jpg);
+    backface-visibility: 20%; 
+}
+
+.form2{
+    font-size: 60px;
+}
+
+#finfo{
+    font-size: 40px;
+}
+.shopname{
+text-transform: capitalize; font-size: 100px; text-align: center; 
+background-color: rgb(255, 102, 0, 0.7);
+}
+
+#form{
+    color: rgb(0, 17, 255)
+}
+
+.moreinfo{
+    font-size: 30px;
+}
+
+#footer{
+    text-align: center; font-size: 60px;
+}
+
+#categ{
+    font-size: 30px;
+}
+
+a{   
+    color: rgba(0, 0, 0,0.8);
+}
+a:hover {color: red;}
+a:active{color: palevioletred;}
+
